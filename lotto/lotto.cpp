@@ -1,6 +1,8 @@
 #include "lotto.h"
-#include <cstdlib>
+
 #include <ctime>
+#include <cstdlib>
+#include <iostream>
 
 using namespace std;
 

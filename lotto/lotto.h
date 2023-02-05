@@ -1,10 +1,6 @@
 #ifndef LOTTO_H
 #define LOTTO_H
 
-#include <ctime>
-#include <cstdlib>
-#include <iostream>
-
 #define AMOUNT 6
 
 class Lotto {
